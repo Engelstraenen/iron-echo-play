@@ -1,0 +1,16 @@
+{
+  "name": "IRON ECHO – Krieg der Maschinen",
+  "short_name": "IRON ECHO",
+  "description": "Echtzeit-Strategie: ECHO-Front, AXIOM, Die Verbundenen und Schrottkönige im Krieg der Maschinen.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#06080b",
+  "theme_color": "#06080b",
+  "lang": "de",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
